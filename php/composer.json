@@ -1,0 +1,26 @@
+{
+  "name": "php/my-libs",
+  "description": "Facebook SDK for PHP",
+  "keywords": [
+    "david"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "David",
+      "homepage": ""
+    }
+  ],
+  "require": {
+    "php": "^5.4|^7.0"
+  },
+  "require-dev": {},
+  "suggest": {
+    "paragonie/random_compat": "Provides a better CSPRNG option in PHP 5",
+    "guzzlehttp/guzzle": "Allows for implementation of the Guzzle HTTP client"
+  },
+  "autoload": {},
+  "autoload-dev": {},
+  "extra": {}
+}
